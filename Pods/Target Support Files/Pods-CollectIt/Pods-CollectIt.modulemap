@@ -1,0 +1,6 @@
+framework module Pods_CollectIt {
+  umbrella header "Pods-CollectIt-umbrella.h"
+
+  export *
+  module * { export * }
+}
